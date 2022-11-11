@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HTL\\Programmierung\\POS_3_Semester\\Uebungen\\ValueTypes\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
+      "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
       "projectName": "ValueTypes",
-      "projectPath": "C:\\HTL\\Programmierung\\POS_3_Semester\\Uebungen\\ValueTypes\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
+      "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\ValueTypes\\ValueTypes\\ValueTypes.csproj",
       "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
-      "outputPath": "C:\\HTL\\Programmierung\\POS_3_Semester\\Uebungen\\ValueTypes\\ValueTypes\\ValueTypes\\obj\\",
+      "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\ValueTypes\\ValueTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

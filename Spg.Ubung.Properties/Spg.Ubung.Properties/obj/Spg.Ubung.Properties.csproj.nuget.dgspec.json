@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HTL\\Programmierung\\POS_3_Semester\\56akif_pos-AtefehTaheriAtoo\\Ubung02\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj": {}
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj": {}
   },
   "projects": {
-    "C:\\HTL\\Programmierung\\POS_3_Semester\\56akif_pos-AtefehTaheriAtoo\\Ubung02\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj": {
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTL\\Programmierung\\POS_3_Semester\\56akif_pos-AtefehTaheriAtoo\\Ubung02\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj",
+        "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj",
         "projectName": "Spg.Ubung.Properties",
-        "projectPath": "C:\\HTL\\Programmierung\\POS_3_Semester\\56akif_pos-AtefehTaheriAtoo\\Ubung02\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj",
+        "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\Spg.Ubung.Properties.csproj",
         "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
-        "outputPath": "C:\\HTL\\Programmierung\\POS_3_Semester\\56akif_pos-AtefehTaheriAtoo\\Ubung02\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\obj\\",
+        "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\Spg.Ubung.Properties\\Spg.Ubung.Properties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
