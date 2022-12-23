@@ -24,6 +24,23 @@ namespace spg.KunstShop.Domain.Model
         public string Address { get; set; } = string.Empty;
         public DateTime RegistrationDateTime { get; set; } 
         public List<ShoppingCart> ShoppingCart { get; set; } = new();
+        public IReadOnlyList<ShoppingCart> ShoppingCarts => _shoppingCarts;
+        protected Customer() { }
+        
+
+        public Customer (Genders gender,
+            string firstNmae,
+            string lastName,
+            String customerNumber,
+            string Email,
+            DateTime birthDate,
+            DateTime registrionDateTime)
+        {
+            Gender = gender;
+            CustomerNumber = customerNumber;
+
+
+        }
 
 
 

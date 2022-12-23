@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJN1wdoxmAW4Kfe9wrRvIS3mYnQTr2xovz25csnGpYFw2AWhWJgBDWQO0OX39r4BgEkvqXb096KvUOy5bwWxew==",
+  "success": true,
+  "projectFilePath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.MvcFronend\\spg.KunstShop.MvcFronend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taher\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

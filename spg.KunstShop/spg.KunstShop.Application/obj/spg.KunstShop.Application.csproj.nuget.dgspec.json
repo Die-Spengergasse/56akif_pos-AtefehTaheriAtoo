@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\spg.KunstShop.Application\\spg.KunstShop.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\spg.KunstShop.Application\\spg.KunstShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\spg.KunstShop.Application\\spg.KunstShop.Application.csproj",
+        "projectName": "spg.KunstShop.Application",
+        "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\spg.KunstShop.Application\\spg.KunstShop.Application.csproj",
+        "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
+        "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\spg.KunstShop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj": {
+                "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj"
+              },
+              "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\spg.KunstShop.Repository.csproj": {
+                "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\spg.KunstShop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj",
+        "projectName": "spg.KunstShop.Domain",
+        "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
+        "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\spg.KunstShop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\spg.KunstShop.Infrastructure.csproj",
+        "projectName": "spg.KunstShop.Infrastructure",
+        "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\spg.KunstShop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
+        "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj": {
+                "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\spg.KunstShop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\spg.KunstShop.Repository.csproj",
+        "projectName": "spg.KunstShop.Repository",
+        "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\spg.KunstShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\taher\\.nuget\\packages\\",
+        "outputPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj": {
+                "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj"
+              },
+              "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\spg.KunstShop.Infrastructure.csproj": {
+                "projectPath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Infrastructure\\spg.KunstShop.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

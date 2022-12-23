@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Spg.Parsable.Demo/1.0.0": {
+        "runtime": {
+          "Spg.Parsable.Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spg.Parsable.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

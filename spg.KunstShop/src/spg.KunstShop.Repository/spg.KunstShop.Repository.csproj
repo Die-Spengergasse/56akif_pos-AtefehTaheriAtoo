@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\spg.KunstShop.Domain\spg.KunstShop.Domain.csproj" />
+    <ProjectReference Include="..\spg.KunstShop.Infrastructure\spg.KunstShop.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

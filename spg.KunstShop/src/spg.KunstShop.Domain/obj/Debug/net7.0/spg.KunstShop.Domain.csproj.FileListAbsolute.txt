@@ -1,0 +1,5 @@
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\spg.KunstShop\src\spg.KunstShop.Domain\obj\Debug\net7.0\spg.KunstShop.Domain.csproj.AssemblyReference.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\spg.KunstShop\src\spg.KunstShop.Domain\obj\Debug\net7.0\spg.KunstShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\spg.KunstShop\src\spg.KunstShop.Domain\obj\Debug\net7.0\spg.KunstShop.Domain.AssemblyInfoInputs.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\spg.KunstShop\src\spg.KunstShop.Domain\obj\Debug\net7.0\spg.KunstShop.Domain.AssemblyInfo.cs
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\spg.KunstShop\src\spg.KunstShop.Domain\obj\Debug\net7.0\spg.KunstShop.Domain.csproj.CoreCompileInputs.cache

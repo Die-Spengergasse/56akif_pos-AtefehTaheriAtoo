@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spg.KunstShop.Domain", "src\spg.KunstShop.Domain\spg.KunstShop.Domain.csproj", "{6A5D8C31-3D97-421B-B2A0-4FC6FD8D4E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spg.KunstShop.Domain", "src\spg.KunstShop.Domain\spg.KunstShop.Domain.csproj", "{6A5D8C31-3D97-421B-B2A0-4FC6FD8D4E2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spg.KunstShop.Application", "spg.KunstShop.Application\spg.KunstShop.Application.csproj", "{BA9B531D-5C8A-462D-9733-B14A97BFA4E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spg.KunstShop.Infrastructure", "src\spg.KunstShop.Infrastructure\spg.KunstShop.Infrastructure.csproj", "{A667CD7F-70DA-4A18-8A9D-8B8B8D67B038}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spg.KunstShop.Repository", "src\spg.KunstShop.Repository\spg.KunstShop.Repository.csproj", "{FACA9FB4-F7E9-41AE-958B-7756958A41B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spg.KunstShop.MvcFronend", "src\spg.KunstShop.MvcFronend\spg.KunstShop.MvcFronend.csproj", "{6A773342-2BFA-4015-959F-0F4478E34F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spg.KunstShop.Domain.Test", "src\spg.KunstShop.Domain.Test\spg.KunstShop.Domain.Test.csproj", "{2DF9F231-3616-483E-A982-E7CE4D4AC0EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{6A5D8C31-3D97-421B-B2A0-4FC6FD8D4E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A5D8C31-3D97-421B-B2A0-4FC6FD8D4E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A5D8C31-3D97-421B-B2A0-4FC6FD8D4E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9B531D-5C8A-462D-9733-B14A97BFA4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9B531D-5C8A-462D-9733-B14A97BFA4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9B531D-5C8A-462D-9733-B14A97BFA4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9B531D-5C8A-462D-9733-B14A97BFA4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A667CD7F-70DA-4A18-8A9D-8B8B8D67B038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A667CD7F-70DA-4A18-8A9D-8B8B8D67B038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A667CD7F-70DA-4A18-8A9D-8B8B8D67B038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A667CD7F-70DA-4A18-8A9D-8B8B8D67B038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACA9FB4-F7E9-41AE-958B-7756958A41B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACA9FB4-F7E9-41AE-958B-7756958A41B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACA9FB4-F7E9-41AE-958B-7756958A41B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACA9FB4-F7E9-41AE-958B-7756958A41B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A773342-2BFA-4015-959F-0F4478E34F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A773342-2BFA-4015-959F-0F4478E34F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A773342-2BFA-4015-959F-0F4478E34F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A773342-2BFA-4015-959F-0F4478E34F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF9F231-3616-483E-A982-E7CE4D4AC0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF9F231-3616-483E-A982-E7CE4D4AC0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF9F231-3616-483E-A982-E7CE4D4AC0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF9F231-3616-483E-A982-E7CE4D4AC0EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

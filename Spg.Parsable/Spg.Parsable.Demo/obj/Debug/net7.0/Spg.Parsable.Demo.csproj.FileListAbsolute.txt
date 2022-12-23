@@ -1,0 +1,15 @@
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\bin\Debug\net7.0\Spg.Parsable.Demo.exe
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\bin\Debug\net7.0\Spg.Parsable.Demo.deps.json
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\bin\Debug\net7.0\Spg.Parsable.Demo.runtimeconfig.json
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\bin\Debug\net7.0\Spg.Parsable.Demo.dll
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\bin\Debug\net7.0\Spg.Parsable.Demo.pdb
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.csproj.AssemblyReference.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.AssemblyInfoInputs.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.AssemblyInfo.cs
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.csproj.CoreCompileInputs.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.dll
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\refint\Spg.Parsable.Demo.dll
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.pdb
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\Spg.Parsable.Demo.genruntimeconfig.cache
+C:\HTL\Git\56akif_pos-AtefehTaheriAtoo\Spg.Parsable\Spg.Parsable.Demo\obj\Debug\net7.0\ref\Spg.Parsable.Demo.dll

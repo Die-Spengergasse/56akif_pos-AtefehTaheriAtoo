@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PhbhDR0BMKbKzSg2OW+5jZR+JV47Aop9qO/BpapBppXs1pHb2Sgd4XID+2WmQvkQC4yY5fU8xsf5f2mABGaA5w==",
+  "dgSpecHash": "9ljpjFTQlNl9CKG+z1o4VC/+WgCuKev2wi3ySqE7P+l5BI+WT3uaYt+lbe3EJI8yMu873Re1Yt2q9QDst0i//A==",
   "success": true,
   "projectFilePath": "C:\\HTL\\Git\\56akif_pos-AtefehTaheriAtoo\\spg.KunstShop\\src\\spg.KunstShop.Domain\\spg.KunstShop.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\taher\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
